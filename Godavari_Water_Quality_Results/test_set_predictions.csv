@@ -1,0 +1,10 @@
+Original_Row_Index,Actual_Class,Predicted_Class,Actual_Label,Predicted_Label,Location
+31,1,1,Meets project rule,Meets project rule,"GODAVARI AT POLAVARAM, A.P."
+20,0,0,Does not meet project rule,Does not meet project rule,"GODAVARI AT RAMAGUNDAM D/S, NEAR FCI INTAKE WELL, KARIMNAGAR"
+21,0,0,Does not meet project rule,Does not meet project rule,"GODAVARI AT GODAVARIKHANI, NEAR BATHING GHAT, KARIMNAGAR"
+30,1,1,Meets project rule,Meets project rule,GODAVARI AT RAJAMUNDRY U/S OF NALLA CHANNEL
+26,0,0,Does not meet project rule,Does not meet project rule,"GODAVARI AT MANCHERIAL, A.P."
+7,0,0,Does not meet project rule,Does not meet project rule,"GODAVARI AT PANCHAVATI AT RAMKUND,MAHARASHTRA"
+14,0,0,Does not meet project rule,Does not meet project rule,"GODAVARI AT DHALEGAON, MAHARASHTRA"
+10,0,0,Does not meet project rule,Does not meet project rule,"GODAVARI RIVER AT U/S OF AURANGABAD RESERVOIR, KAIGAON TOKKA NEAR KAIGAON BRIDGE."
+6,0,0,Does not meet project rule,Does not meet project rule,GODAVARI RIVER NEAR TAPOVAN.

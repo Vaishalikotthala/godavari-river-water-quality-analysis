@@ -1,0 +1,8 @@
+                            precision    recall  f1-score   support
+
+Does not meet project rule       1.00      1.00      1.00         7
+        Meets project rule       1.00      1.00      1.00         2
+
+                  accuracy                           1.00         9
+                 macro avg       1.00      1.00      1.00         9
+              weighted avg       1.00      1.00      1.00         9

@@ -1,0 +1,30 @@
+
+GODAVARI RIVER WATER QUALITY ANALYSIS AND CLASSIFICATION
+
+Dataset records after cleaning: 35
+Predictor features: 18
+Training records: 26
+Testing records: 9
+
+Target rule:
+Mean D.O. >= 5.0 and mean B.O.D. <= 3.0.
+
+Class 1 meets this educational project rule.
+Class 0 does not meet both conditions.
+This rule does not certify drinking-water safety.
+
+Best model by test F1-score: Logistic Regression
+
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+ROC-AUC: 1.0000
+Log Loss: 0.0879
+
+Limitations:
+The dataset contains only 35 original records, so performance
+metrics can be unstable and sensitive to the train/test split.
+The target is derived from D.O. and B.O.D. thresholds.
+Those columns are excluded from the classifier's predictors.
+K-Means and PCA are exploratory analyses.
